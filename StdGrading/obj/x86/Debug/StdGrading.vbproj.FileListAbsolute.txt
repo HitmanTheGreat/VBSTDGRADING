@@ -1,0 +1,11 @@
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\bin\Debug\StdGrading.exe
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\bin\Debug\StdGrading.pdb
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\bin\Debug\StdGrading.xml
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.addorgradefrm.resources
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.addstudentfrm.resources
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.graddingfrm.resources
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.Resources.resources
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.vbproj.GenerateResource.Cache
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.exe
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.xml
+c:\users\himan\documents\visual studio 2010\Projects\StdGrading\StdGrading\obj\x86\Debug\StdGrading.pdb
